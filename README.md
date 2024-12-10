@@ -1,7 +1,9 @@
-Greetings! 🌟 I'm a dedicated Data Scientist blending a Civil Engineering background with expertise in Python, R, and HTML. Specializing in Machine Learning and Big Data, I excel in optimizing marketing strategies and leveraging advanced prediction algorithms. My skills extend to database management with MongoDB, MySQL, Hadoop, and AWS. Eager to contribute impactful data insights for organizational success, I bring a passion for innovation and problem-solving. 
+Hi there 👋  
 
-Proficient in Python (Pandas, SciPy, NumPy, Scikit-learn, Keras, TensorFlow, PyTorch), R, and Git. Experienced in MySQL, MongoDB, and Couchbase databases. Solid background in Machine Learning (XGBoost, SVM, Clustering, Regression) and Deep Learning (CNN, RNN, LSTM, GAN, NLP). Familiar with Jupyter, RStudio, GCP, AWS, and Google Analytics.
+I am Rupsa Banerjee (She/Her), a graduate student and Machine Learning researcher under Professor Mengjia Xu at NJIT, specializing in data analytics, machine learning, and big data. My background in engineering, coupled with coursework in business economics, computer applications, and management, has equipped me with strong analytical, programming, and problem-solving skills.  
 
-Possess strong analytical thinking, sound judgment, leadership, teamwork, and effective communication skills. Proactive work ethic with expertise in SEO strategies, influencer outreach, link-building, content marketing, and SEM techniques. Former SEO Executive in (India) with a track record of optimizing revenue outcomes through predictive data science algorithms. 
+Skilled in Python, SQL, and advanced analytics, I have hands-on experience in search engine optimization (SEO), data-driven decision-making, and predictive modeling, making me adept at optimizing marketing strategies and leveraging advanced algorithms. My technical expertise spans Python (Pandas, SciPy, NumPy, Scikit-learn, Keras, TensorFlow, PyTorch), R, SQL, and database management with MySQL, MongoDB, Hadoop, and AWS.  
 
-Let's unlock the power of data together! 🚀💻
+Experienced in machine learning (XGBoost, SVM, Clustering, Regression) and deep learning (CNN, RNN, LSTM, GAN, NLP), I’m also proficient with tools like Tableau, Jupyter, RStudio, and Google Analytics. My proactive approach and strong communication skills have driven successful SEO strategies, influencer outreach, and content marketing campaigns, increasing user engagement and revenue outcomes.  
+
+Let’s transform data into meaningful insights together! 🚀💻
