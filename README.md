@@ -1,9 +1,29 @@
-Hi there 👋  
+# Hi there 👋 I'm Rupsa Banerjee (She/Her)
 
-I am Rupsa Banerjee (She/Her), a graduate student and a Software Engineer, specializing in AI & ML application development, building advanced, agent-driven systems for real-time communication,  intent recognition, and contextual knowledge retrieval, utilizing reinforcement learning techniques. I have worked as a Machine Learning researcher,proficient in data analytics, machine learning, software engineering and big data.  
+🛠️ **Engineering & Computer Science Teacher** at Trinity Hall, New Jersey
+🎓 M.S. in Data Science, New Jersey Institute of Technology
+📜 NJ Certificate of Eligibility: Engineering Technology & Computer Science Technology
 
-Skilled in Python, SQL, and advanced analytics, I have hands-on experience in search engine optimization (SEO), data-driven decision-making, and predictive modeling, making me adept at optimizing marketing strategies and leveraging advanced algorithms. 
+I teach high school engineering through the **design thinking process** (empathize, define, ideate, prototype, test) and hands-on, real-world projects in sustainability, humanitarian engineering, and energy systems. My students go from a sketch to a working product using the same tools engineers use.
 
-Experienced in machine learning (XGBoost, SVM, Clustering, Regression) and deep learning (CNN, RNN, LSTM, GAN, NLP), I’m also proficient with tools like Tableau, Jira, Jupyter and Google Analytics. My proactive approach and strong communication skills have driven successful SEO strategies, influencer outreach, and content marketing campaigns, increasing user engagement and revenue outcomes.  
+### 🔧 What I teach
+- **Electronics:** circuits, breadboarding, soldering
+- **Physical computing:** Arduino programming with sensors and motors
+- **Design & fabrication:** Onshape CAD, engineering drawing, 3D printing, laser cutting
+- **Coding:** Python (CodeHS), Scratch, and intro to AI/ML for students
 
-Let’s transform data into meaningful insights together! 🚀💻
+### 🤖 My background in AI & Data Science
+Before teaching, I worked in AI and data:
+- **AI Consultant:** built a real-time conversational AI voice platform (multi-agent, RAG, speech-to-text/text-to-speech, FastAPI, Docker, GPU optimization)
+- **ML Researcher at NJIT:** modeled dynamic brain connectivity from fMRI data using transformer-based graph models
+- **Data/SEO Analyst:** built data pipelines, dashboards, and ML models for web analytics
+
+### 💻 Tech Stack
+Python · SQL · Java (basic) · Arduino · Onshape · Machine Learning · Deep Learning (CNN, LSTM, NLP) · Git · Docker · AWS · Azure · Tableau · Jupyter
+
+### 📂 On this GitHub
+Machine learning and deep learning projects (time-series forecasting, NLP sentiment analysis, image classification), plus classroom-friendly coding and AI projects.
+
+🌐 [Portfolio](https://birbaner.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/rupsa-banerjee-215a0a231) · ✉️ rupsabanerjee01@gmail.com
+
+*Building the next generation of engineers, one prototype at a time.* 🚀
